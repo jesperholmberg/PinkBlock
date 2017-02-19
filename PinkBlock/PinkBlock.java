@@ -9,13 +9,8 @@ public class PinkBlock {
     @Instance("PinkBlock")
     public PinkBlock instance;
 
-    // Mark this method for receiving an FMLEvent (in this case, it's the FMLPreInitializationEvent)
-    @EventHandler public void preInit(FMLPreInitializationEvent event)
-    {
-        // Do stuff in pre-init phase (read config, create blocks and items, register them)
-    }
-    
-    public void
+    @EventHandler
+    public void load(FMLInitializationEvent event)
 }
 }
 /*

@@ -1,0 +1,17 @@
+[
+{
+	"modid" : "PinkBlock",
+	"name": "PinkBlock Mod",
+	"description": "A pink block mod",
+	"version" : "1.0",
+	"mcversion": "1.11.2",
+	"url" : "https://github.com/jesperholmberg/PinkBlock",
+	"updateUrl": "",
+	"authors": "Jesper and Pepper Holmberg",
+	"credits" : "",
+	"logoFile": "",
+	"screenshots": "",
+	"depdendencies":""
+	
+}
+]
